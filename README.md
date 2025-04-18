@@ -1,1 +1,1 @@
-# Leetcode-Daily-Challenge-2025
+# Leetcode-Daily-Challenge-2024
